@@ -1,4 +1,4 @@
-# [Introduction](\README.md)
+# [Introduction](/README.md)
 
 ![This is an image](/mydrawing.jpg)
 
