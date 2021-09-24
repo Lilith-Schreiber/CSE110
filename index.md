@@ -1,6 +1,6 @@
 # [Introduction](\README.md)
 
-![This is an image](\download.jfif)
+![This is an image](\mydrawing.jpg)
 
 ## As a Person
 - Name: Ting-Yun Yeh
