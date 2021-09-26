@@ -14,16 +14,16 @@
   > I want to go to graduate school, especially [UCL](https://www.ucl.ac.uk/) or [NYU](https://www.nyu.edu/), ***PLEASE LET ME IN!!!***
 
 ## As a Programmer
-- Programming Language: C++, Python, HTML
+- Programming Language: [C++](#c), [Python](#python), [HTML](#html)
 
 ### Sample
-C++:
+##### C++:
 `cout << "Hello World!" << endl;`
 
-Python:
+##### Python:
 `print(Hello World!)`
 
-HTML:
+##### HTML:
 `<p>Hello World!</p>`
 
 ## My Learning Process
